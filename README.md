@@ -1,2 +1,2 @@
 # project-1
-just for explore 
+just for explore.
